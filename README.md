@@ -1,11 +1,11 @@
-# 🚗 Car Sales Analysis Dashboard (Power BI)
+#  Car Sales Analysis Dashboard (Power BI)
 
-## 📌 Overview
+##  Overview
 This project focuses on analyzing car sales data using **Power BI** to uncover key business insights, trends, and performance metrics. The dashboard provides an interactive view of sales performance across regions, models, and time periods.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze sales performance across different regions
 - Identify top-selling car models and revenue drivers
 - Track key metrics such as total sales, revenue, and growth trends
@@ -13,7 +13,7 @@ This project focuses on analyzing car sales data using **Power BI** to uncover k
 
 ---
 
-## 📊 Key Features
+##  Key Features
 - Interactive **Power BI Dashboard**
 - KPI tracking (Total Sales, Revenue, Units Sold)
 - Regional performance analysis
@@ -22,7 +22,7 @@ This project focuses on analyzing car sales data using **Power BI** to uncover k
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **Power BI**
 - **DAX (Data Analysis Expressions)**
 - **Power Query**
@@ -30,7 +30,7 @@ This project focuses on analyzing car sales data using **Power BI** to uncover k
 
 ---
 
-## 📈 Project Highlights
+##  Project Highlights
 - Analyzed **10,000+ car sales records** to identify key trends  
 - Improved reporting efficiency by **40%** through data cleaning and automation  
 - Identified top-performing regions contributing **35%+ of total revenue**  
@@ -43,14 +43,14 @@ This project focuses on analyzing car sales data using **Power BI** to uncover k
 
 ---
 
-## 💡 Insights Gained
+##  Insights Gained
 - Certain regions consistently outperform others in revenue generation  
 - A small group of car models contributes significantly to total sales  
 - Seasonal trends impact overall sales performance  
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Integrate real-time data sources  
 - Add predictive analytics for sales forecasting  
 - Enhance dashboard with advanced KPIs  
